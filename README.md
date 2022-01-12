@@ -39,7 +39,7 @@ http://www.target.com/directory
 https://www.target.com/directory
 ````
 
-## Benifits:
+## Benefits:
 - It will take all the targets from the file passed.
 - Make the exploit Poc by creating a HTML File with `TargetName.html` as the Output.
 - Will Print `Not Vulnerable` if Target is not Vulnerable.
