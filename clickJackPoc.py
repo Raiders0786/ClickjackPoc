@@ -24,6 +24,8 @@ print('''
 
 #################### --Starting Test's-- ####################
 ''')
+
+vuln=False
 parser = argparse.ArgumentParser(
     description='This Tool will automate & Check if the List of URLs in the file are Vulnerable to Clickjacking Attack & will make a POC for the Vulnerable URL')
 parser.add_argument(
