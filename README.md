@@ -23,7 +23,7 @@ python3 clickJackPoc.py -f domains.txt
 
 ````
 
-![1](usage.jpg)
+![1](usage.png)
 
 ## Allowed Targets Format:
 
