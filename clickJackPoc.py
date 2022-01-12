@@ -71,8 +71,7 @@ try:
             print("No Worries , I'm here to handle your KeyBoard Interrupts \n")
         except urllib.error.URLError as e:
             # handling HTTP 403 Forbidden timeout...
-            print(
-                f"Target {t} has some HTTP Errors via http:// lets let https:// ", exception)
+            print(f"Target {t} has some HTTP Errors via http:// lets let https:// ", exception)
         except requests.HTTPError as exception:
             print(f"Target {t} has some HTTP Errors :--> ", exception)
         except Exception as e:
