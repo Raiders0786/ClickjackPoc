@@ -12,8 +12,8 @@
 
 ## Installation:
 ````
-git clone https://github.com/princep4/Click-Jack.git
-cd Click-Jack
+git clone https://github.com/Raiders0786/ClickjackPoc.git
+cd ClickjackPoc
 pip install -r requirements.txt
 ````
 
@@ -21,7 +21,6 @@ pip install -r requirements.txt
 Example Usage of the Tool
 ````
 python3 clickJackPoc.py -f domains.txt
-
 ````
 
 ![1](usage.png)
@@ -38,7 +37,6 @@ IP:Port
 http://IP:Port/login
 http://www.target.com/directory
 https://www.target.com/directory
-
 ````
 
 ## Benifits:
