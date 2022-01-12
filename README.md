@@ -51,4 +51,4 @@ https://www.target.com/directory
 
 
 <a href="https://www.linkedin.com/in/chirag-agrawal-770488144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 60px !important;width: 170px !important;" ></a>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/__Raiders?style=social" width="220" height="50">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/__Raiders?style=social" width="250" height="50">
