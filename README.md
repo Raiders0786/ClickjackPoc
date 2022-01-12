@@ -46,6 +46,7 @@ https://www.target.com/directory
 
 ## Reach Me :
 - `Do Tag Me if you get Rewarded💸💰 , Will be Very Happy to hear that 😄 !`
+- Do Give it a `Star` if you like it & `Follow` me for more such stuffs!
 - Let me know if you have any Suggestion's or want to Collaborate.
 - This tool is made for Learning Purpose ! 
 
