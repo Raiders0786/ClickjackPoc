@@ -1,6 +1,6 @@
 # ClickJackPoc
 
-- This tool will help you automate finding the Clickjacking Vulnerability by passing a file containing list of Targets .
+- This tool will help you automate finding Clickjacking Vulnerability by just passing a file containing list of Targets .
 - Once the Target is Found Vulnerable It will generate the Exploit Proof of Conepet(PoC) for each Vulnerable targets.
 
 ## What is Clickjacking ?
