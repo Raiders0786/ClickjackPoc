@@ -51,5 +51,5 @@ https://www.target.com/directory
 - This tool is made for Learning Purpose ! 
 
 
-<a href="https://www.linkedin.com/in/chirag-agrawal-770488144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 60px !important;width: 170px !important;" ></a>
+<a href="https://www.linkedin.com/in/chirag-agrawal-770488144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 50px !important;width: 170px !important;" ></a>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/__Raiders?style=social" width="250" height="50">
