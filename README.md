@@ -10,6 +10,14 @@
 - Sites can use "X-Frame-Options" in the headers to avoid clickjacking attacks by ensuring that their content is not embedded into other sites.
 - [Reference](https://owasp.org/www-community/attacks/Clickjacking)
 
+## Features:
+- It will take all the targets from the file passed.
+- Make the exploit Poc by creating a HTML File with `TargetName.html` as the Output.
+- Will Print `Not Vulnerable` if Target is not Vulnerable.
+- Multi Threading Support Added.
+- Integrated `Slack Alert` with PoC Code.
+- Script will now store all the respective PoC code in `results` folder with respective name.
+
 ## Installation:
 ````
 git clone https://github.com/Raiders0786/ClickjackPoc.git
@@ -38,14 +46,6 @@ http://IP:Port/login
 http://www.target.com/directory
 https://www.target.com/directory
 ````
-
-## Features:
-- It will take all the targets from the file passed.
-- Make the exploit Poc by creating a HTML File with `TargetName.html` as the Output.
-- Will Print `Not Vulnerable` if Target is not Vulnerable.
-- Multi Threading Support Added.
-- Integrated `Slack Alert` with PoC Code.
-- Script will now store all the respective PoC code in `results` folder with respective name.
 
 ## Reach Me :
 - `Do Tag Me if you get Rewarded💸💰 , Will be Very Happy to hear that 😄 !`
