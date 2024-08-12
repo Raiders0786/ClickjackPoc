@@ -1,6 +1,4 @@
-
 requests
-sys
 argparse
 urllib3
 termcolor
