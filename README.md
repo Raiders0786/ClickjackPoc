@@ -17,6 +17,7 @@
 - Multi Threading Support Added.
 - Integrated `Slack Alert` with PoC Code.
 - Script will now store all the respective PoC code in `results` folder with respective name.
+- Proper Error Handling & Logging incorporated.
 
 ## Installation:
 ````
