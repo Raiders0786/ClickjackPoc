@@ -1,6 +1,8 @@
 # 🚨 ClickJacking Vulnerability Scanner 🚨
-- This tool automates the detection of ClickJacking vulnerabilities by scanning a list of targets provided in a file.
+
+- This **Python-based** tool automates the detection of ClickJacking vulnerabilities by scanning a list of targets provided in a file.
 - For each vulnerable target found, it generates an Exploit Proof of Concept (PoC) in the form of an HTML file.
+- The tool is **completely working** and has been thoroughly **tested** for reliability and accuracy.
 
 ## What is ClickJacking? 🤔
 - ClickJacking (also known as User Interface redress attack, UI redress attack, or UI redressing) is a malicious technique where a web user is tricked into clicking on something different from what they perceive, potentially revealing confidential information or taking control of their computer while interacting with seemingly harmless web pages.
