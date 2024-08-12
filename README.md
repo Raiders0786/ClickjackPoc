@@ -33,13 +33,13 @@ python3 clickJackPoc.py -f domains.txt
 
 ![1](usage.png)
 
-## Allowed Targets Format:
+## 🎯 Allowed Targets Format:
 
 ````
 http://target.com
 target.com
 www.target.com
-https://tartget.com/
+https://target.com/
 https://IP:Port
 IP:Port
 http://IP:Port/login
@@ -47,11 +47,12 @@ http://www.target.com/directory
 https://www.target.com/directory
 ````
 
-## Reach Me :
-- `Do Tag Me if you get Rewarded💸💰 , Will be Very Happy to hear that 😄 !`
-- Do Give it a `Star` if you like it & `Follow` me for more such stuffs!
-- Let me know if you have any Suggestion's or want to Collaborate.
-- This tool is made for Learning Purpose ! 
+## 🌟 Reach Me:
+
+- **💬 Tag Me** if you get rewarded 💸💰—I’d love to hear about your success! 😄
+- If you find this tool useful, please give it a **Star** ⭐ and **Follow** me for more cool projects!
+- Feel free to reach out if you have any suggestions or want to collaborate.
+- **⚠️ Note**: This tool is intended for **learning purposes** only.
 
 
 <a href="https://www.linkedin.com/in/chirag-agrawal-770488144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 50px !important;width: 170px !important;" ></a>
