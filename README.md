@@ -1,14 +1,13 @@
 # 🚨 ClickJacking Vulnerability Scanner 🚨
+- This tool automates the detection of ClickJacking vulnerabilities by scanning a list of targets provided in a file.
+- For each vulnerable target found, it generates an Exploit Proof of Concept (PoC) in the form of an HTML file.
 
-- This tool will help you automate finding Clickjacking Vulnerability by just passing a file containing list of Targets .
-- Once the Target is Found Vulnerable It will generate the Exploit Proof of Conepet(PoC) for each Vulnerable targets.
+## What is ClickJacking? 🤔
+- ClickJacking (also known as User Interface redress attack, UI redress attack, or UI redressing) is a malicious technique where a web user is tricked into clicking on something different from what they perceive, potentially revealing confidential information or taking control of their computer while interacting with seemingly harmless web pages.
+- A server that doesn’t return an `X-Frame-Options header` is vulnerable to ClickJacking attacks. The `X-Frame-Options` HTTP response header is used to indicate whether a browser should be allowed to render a page within a `<frame> or <iframe>`.
+- Websites can prevent ClickJacking attacks by using the `X-Frame-Options` header to ensure their content isn’t embedded in other sites.
 
-## What is Clickjacking ?
-
-- Clickjacking (User Interface redress attack, UI redress attack, UI redressing) is a malicious technique of tricking a Web user into clicking on something different from what the user perceives they are clicking on, thus potentially revealing confidential information or taking control of their computer while clicking on seemingly innocuous web pages.
-- The server didn't return an X-Frame-Options header which means that this website could be at risk of a clickjacking attack. The X-Frame-Options HTTP response header can be used to indicate whether or not a browser should be allowed to render a page in a <frame> or <iframe>. 
-- Sites can use "X-Frame-Options" in the headers to avoid clickjacking attacks by ensuring that their content is not embedded into other sites.
-- [Reference](https://owasp.org/www-community/attacks/Clickjacking)
+[Learn more on OWASP](https://owasp.org/www-community/attacks/Clickjacking)
 
 ## ⚡ Features
 - **🎯 Target-Based Scanning:** Automatically scans all targets listed in the provided file.
