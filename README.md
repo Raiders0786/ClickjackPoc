@@ -1,4 +1,4 @@
-# ClickJacking Vulnerability Scanner
+# 🚨 ClickJacking Vulnerability Scanner 🚨
 
 - This tool will help you automate finding Clickjacking Vulnerability by just passing a file containing list of Targets .
 - Once the Target is Found Vulnerable It will generate the Exploit Proof of Conepet(PoC) for each Vulnerable targets.
@@ -10,14 +10,14 @@
 - Sites can use "X-Frame-Options" in the headers to avoid clickjacking attacks by ensuring that their content is not embedded into other sites.
 - [Reference](https://owasp.org/www-community/attacks/Clickjacking)
 
-## Features
-- **Target-Based Scanning:** Automatically scans all targets listed in the provided file.
-- **Exploit PoC Generation:** Creates an HTML-based Proof of Concept (PoC) file for each vulnerable target, saved as TargetName.html.
-- **Comprehensive Reporting:** Clearly identifies and prints "Not Vulnerable" for targets that are secure.
-- **Multithreading for Speed:** Leverages multithreading to perform rapid vulnerability scanning.
-- **Slack Integration:** Sends real-time Slack alerts with attached PoC files for each vulnerable target.
-- **Organized Results:** Stores all generated PoC files in a dedicated results folder, each named after the corresponding target.
-- **Robust Error Handling:** Includes detailed logging and error management to ensure smooth operation and easy troubleshooting.
+## ⚡ Features
+- **🎯 Target-Based Scanning:** Automatically scans all targets listed in the provided file.
+- **🛠️ Exploit PoC Generation:** Creates an HTML-based Proof of Concept (PoC) file for each vulnerable target, saved as TargetName.html.
+- **✅ Comprehensive Reporting:** Clearly identifies and prints "Not Vulnerable" for targets that are secure.
+- **🚀 Multithreading for Speed:** Leverages multithreading to perform rapid vulnerability scanning.
+- **🔔 Slack Integration:** Sends real-time Slack alerts with attached PoC files for each vulnerable target.
+- **📁 Organized Results:** Stores all generated PoC files in a dedicated results folder, each named after the corresponding target.
+- **🔧 Robust Error Handling:** Includes detailed logging and error management to ensure smooth operation and easy troubleshooting.
 
 ## Installation:
 ````
